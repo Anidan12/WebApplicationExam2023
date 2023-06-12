@@ -1,5 +1,4 @@
-﻿using WebApplicationExam2023.Controllers;
-namespace WebApplicationExam2023.Domain.Models;
+﻿namespace WebApplicationExam2023.Domain.Models;
 
 public class Chat
 {
@@ -10,6 +9,5 @@ public class Chat
     public DateTime? CreatedDate { get; internal set; } = DateTime.Now;
     public DateTime? LastModifiedDate { get; internal set; } = DateTime.Now;
     public Guid UserId { get; set; }
- 
 }
 

@@ -1,6 +1,4 @@
-﻿using Microsoft.AspNetCore.SignalR;
-using WebApplicationExam2023.Domain.Models;
-using WebApplicationExam2023.ViewModel;
+﻿using WebApplicationExam2023.Domain.Models;
 
 namespace WebApplicationExam2023.Domain;
 
@@ -56,7 +54,6 @@ internal static class Database
               CreatedDate = DateTime.Now,
               LastModifiedDate = DateTime.Now,
         },
-
 
     };
 };

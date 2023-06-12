@@ -1,5 +1,4 @@
-﻿
-namespace WebApplicationExam2023.CrudDto
+﻿namespace WebApplicationExam2023.CrudDto
 {
     public class DeleteChatDto
     {

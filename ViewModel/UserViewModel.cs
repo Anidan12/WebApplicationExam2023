@@ -1,7 +1,4 @@
-﻿using System.Reflection;
-using WebApplicationExam2023.Domain;
-using WebApplicationExam2023.ViewModel;
-
+﻿using WebApplicationExam2023.Domain;
 
 namespace WebApplicationExam2023.ViewModel;
 

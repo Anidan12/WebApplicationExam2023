@@ -1,5 +1,4 @@
-﻿using WebApplicationExam2023.Controllers;
-namespace WebApplicationExam2023.Domain;
+﻿namespace WebApplicationExam2023.Domain;
 
 public class User
 {

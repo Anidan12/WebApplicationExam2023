@@ -1,10 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
-using WebApplicationExam2023.Controllers;
-using WebApplicationExam2023.Domain;
-using WebApplicationExam2023.ViewModel;
-using WebApplicationExam2023.Service;
-
-namespace WebApplicationExam2023.CrudDto
+﻿namespace WebApplicationExam2023.CrudDto
 {
     public class CreatChatDto
 
